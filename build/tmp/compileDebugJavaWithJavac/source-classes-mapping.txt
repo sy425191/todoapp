@@ -1,0 +1,10 @@
+com/example/to_doapp/BuildConfig.java
+ com.example.to_doapp.BuildConfig
+com/example/to_doapp/db/TaskContract.java
+ com.example.to_doapp.db.TaskContract
+ com.example.to_doapp.db.TaskContract$TaskEntry
+com/example/to_doapp/db/TaskDbHelper.java
+ com.example.to_doapp.db.TaskDbHelper
+com/example/to_doapp/MainActivity.java
+ com.example.to_doapp.MainActivity
+ com.example.to_doapp.MainActivity$1
